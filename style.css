@@ -56,7 +56,7 @@ section{
     
 }
 .picture_side{
-    width:23%;
+    width:22%;
     margin:3%;
     padding:1%;
     float: left;
@@ -68,6 +68,7 @@ section{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
     background-position: center;
+    padding:100px;
 }
 .center_color{
     text-align: center;
@@ -101,7 +102,9 @@ span{
 .last_banner{
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat;
-    height:400px;
+    background-position: center;
+    background-size: auto;
+    
     
 }
 .end{
