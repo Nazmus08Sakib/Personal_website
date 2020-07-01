@@ -1,0 +1,113 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+.name_color{
+    color:rgb(255, 99, 71)
+
+    ;
+    height:60px;
+    
+}
+.half_width{
+    width:39%;
+    margin:3%;
+    padding: 2%;
+    float: left;
+}
+.half_width img{
+    width:100%;
+}
+p{
+    color:dimgray;
+}
+.First_button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding:10px 20px;
+    color:white;
+    border-radius: 5px;
+}
+.First_banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    
+}
+section{
+    height:500px;
+    padding-bottom: 200px;
+}
+.second_button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    color:white;
+    border-radius: 5px;
+}
+.second_banner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    height:700px;
+}
+.center{
+    text-align: center;
+    
+    
+}
+.picture_side{
+    width:23%;
+    margin:3%;
+    padding:1%;
+    float: left;
+}
+.picture_side img{
+    width:100%;
+}
+.work_banner{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.center_color{
+    text-align: center;
+    color:dimgray;
+    margin: -1.5em;
+}
+.text_center{
+    text-align: center;
+    padding:10px;
+    font-family: 'Poppins', sans-serif;
+}
+.last_button{
+    
+    width: auto;
+    text-align: center;
+    color:white;
+    border-radius: 5px;
+    height: 25%;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: #F51678;
+    padding: 10px 10px;
+}
+span{
+    font-size: 10px;
+    color:white;
+}
+.text{
+    color:white;
+}
+.last_banner{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    height:400px;
+    
+}
+.end{
+    height: 5px;
+    font-size: 10px;
+    text-align: center;
+}
+
+
